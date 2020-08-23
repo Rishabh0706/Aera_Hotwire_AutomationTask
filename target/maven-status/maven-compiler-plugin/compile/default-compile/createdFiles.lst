@@ -1,0 +1,5 @@
+com/hotwire/qa/util/TestUtil.class
+com/hotwire/qa/pages/HomePage.class
+com/hotwire/qa/pages/VacationsPage.class
+com/hotwire/qa/base/TestBase.class
+com/hotwire/qa/pages/SearchResultsPage.class
